@@ -7,6 +7,7 @@
 - [Rohan Sahgal](https://github.com/rohan-sahgal)
 - [Moaz Adel] (https://github.com/Moaz-Adel)
 - [Imran Yafith] (https://github.com/pixelfox01)
+- [Richard McCue] (https://github.com/Remik1321)
 - [Sreekanth Kumar] (https://github.com/Sree9446086944)
 - [Tyler Clark] (https://github.com/TheAngryTaqutio)
 - [Stijn-Bch](https://github.com/Stijn-Bch)
